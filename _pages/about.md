@@ -10,6 +10,10 @@ I am a third-year undergraduate student at [Guohao College, Tongji University](h
 
 Qirui Hu and Ruichen Ma are my long-term collaborator, and we are conducting research together in the field of generative model.
 
+Education
+======
+- 2022.09-now: **B.S. candidate in Computer Science and Technology****Tongji Uniersity**, China
+
 News
 ======
 
