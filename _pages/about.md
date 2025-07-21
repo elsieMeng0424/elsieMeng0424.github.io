@@ -14,8 +14,8 @@ News
 
 Honors and Awards
 ======
-- 2023-2024 Tongji University Scholarship (school-wide)
-- 2022-2023 Tongji University Scholarship (school-wide)
-- Tongji University Scholarship for Outstanding Freshman (school-wide, 0.1%)
-- CChO (Chinese Chemistry Olympiad) Silver Medal (National Competition)
+- **2023-2024 Tongji University Scholarship** (school-wide)
+- **2022-2023 Tongji University Scholarship** (school-wide)
+- **Tongji University Scholarship for Outstanding Freshman** (school-wide, 0.1%)
+- **CChO (Chinese Chemistry Olympiad) Silver Medal** (National Competition)
 
