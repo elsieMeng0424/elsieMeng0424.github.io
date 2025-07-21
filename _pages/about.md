@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sui Jianzheng"
+title: "Jianzheng Sui (隋建政)"
 author_profile: true
 redirect_from: 
   - /about/
