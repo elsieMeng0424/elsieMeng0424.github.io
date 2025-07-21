@@ -19,7 +19,7 @@ Honors and Awards
 - **2023-2024 Tongji University Scholarship** (school-wide)
 - **2022-2023 Tongji University Scholarship** (school-wide)
 - **Tongji University Scholarship for Outstanding Freshman** (school-wide, 0.1%)
-- **2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling) Second Prize (Shanghai)** (Team Leader)
+- **2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling) Second Prize in Shanghai Division** (Team Leader)
 - **2023 APMCM (Asia and Pacific Mathematical Contest in Modeling) Second Prize** (Team Leader)
 - **2021 35th CChO (Chinese Chemistry Olympiad) Silver Medal** (National Competition)
 
