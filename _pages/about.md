@@ -12,7 +12,7 @@ Qirui Hu and Ruichen Ma are my long-term collaborator, and we are conducting res
 
 Education
 ======
-- 2022.09-now: **B.S. candidate in Computer Science and Technology****Tongji Uniersity**, China
+- 2022.09-now: **B.S. candidate in Computer Science and Technology**, **Tongji Uniersity**, China
 
 News
 ======
