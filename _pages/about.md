@@ -16,14 +16,18 @@ Education
 
 News
 ======
-
+- **[2024.8]** I successfully completed the Course *Algorithm for Game Design* provided by [Prof. Bill Nace](https://www.ece.cmu.edu/directory/bios/nace-bill.html) from CMU with a grade A.
+- **[2024.8]** Our project received Disruptive Innovation Project Award (Best Project in Track 9) thanks to Tianyu, Kairan and Jingyue.
+- **[2024.6]** I was admitted to X-Camp of X-Institute, Shenzhen.
+- **[2022.9]** I was admitted to Tongji University.
 
 Honors and Awards
 ======
-- **2023-2024 Tongji University Scholarship** (school-wide)
-- **2022-2023 Tongji University Scholarship** (school-wide)
-- **Tongji University Scholarship for Outstanding Freshman** (school-wide, 0.1%)
-- **2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling) Second Prize in Shanghai Division** (Team Leader)
-- **2023 APMCM (Asia and Pacific Mathematical Contest in Modeling) Second Prize** (Team Leader)
+- **2023-2024 Tongji University Scholarship** (¥3,000)
+- **2022-2023 Tongji University Scholarship** (¥2,000)
+- **Tongji University Scholarship for Outstanding Freshman** (0.1%, ¥20,000)
+- **2024 iCAN College Student Innovation and invention Competition Third Prize**
+- **2024 CUMCM Second Prize in Shanghai Division** (Team Leader)
+- **2023 APMCM Second Prize** (Team Leader)
 - **2021 35th CChO (Chinese Chemistry Olympiad) Silver Medal** (National Competition)
 
